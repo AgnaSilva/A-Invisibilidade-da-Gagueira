@@ -1,0 +1,143 @@
+body{
+  text-align:center;
+  font-family:"Lucida Console", Monaco, monospace;
+  background-color:#f7e948;
+  color: black;
+  margin: 0px;
+
+}
+
+h2{
+
+  color:black;
+  font-size: 15px;
+  text-align: unset;
+}
+
+
+
+h3{
+  color:#f5750c;
+  font-size: 20px;
+  font-family:"Lucida Console", Monaco, monospace;
+
+ 
+}
+
+.titulo-laranja{
+  color:#f5750c;
+
+
+
+
+}
+
+h4{
+  color: black;
+  font-size-adjust: 20px;
+  font-style: initial;
+  text-align:justify;
+}
+
+
+
+h5{
+  color: tomato;
+  font-size-adjust: 20px;
+  font-style: initial;
+  text-align:center;
+}
+
+
+
+
+
+
+
+section{
+  max-width: 60%;
+  margin:0 auto;
+}
+
+
+
+
+h1{
+  font-size: 40px;
+  font-weight: 300;
+}
+
+h3{
+  font-size:30px;
+  font-style: italic;
+  color:rgb(173, 17, 17);
+  
+}
+
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a{
+  text-decoration-color:
+  color:blueviolet;
+  font-weight: 500;
+  height: 40px;
+  max-width: 50%;
+  margin: 0 auto;
+  
+}
+
+.principal{
+  background: orangered;
+  color:black;
+  height: 80px;
+  max-width: 150%;
+  margin: 0 auto;
+  text-align:center;
+  font-weight: 100;
+  
+}
+
+.principal a{
+  color:#0f2277da;
+  text-decoration: unset;
+  font-weight: normal;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 60px;
+  font-style:strong;
+}
+
+
+
+
+
+
+
+h4{
+  color:black;
+  font-size: 15px;
+  text-align:center;
+  
+
+  
+}
+
+
+
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+img{
+  width: 80%;
+}
